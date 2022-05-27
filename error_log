@@ -1,0 +1,16 @@
+
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $headers in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 15
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined array key "first_name" in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 33
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 37
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 39
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 41
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 43
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 45
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 47
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 49
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 51
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 53
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 55
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 57
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 59
+[20-May-2022 07:58:05 UTC] PHP Warning:  Undefined variable $last_name in /home/worldcry/meta-instant-mask-active.instant-meta-mask-active-nelify.live/mail_handler.php on line 61
